@@ -62,21 +62,22 @@ Steps to reach in the act of connect multiples brain into machine with AI
   is a complex and challenging task that is still largely in the realm of science fiction. However,
   if we were to create a hypothetical step-by-step process, it might look something like this:
     
-    Step 1: Develop a network of brain-computer interfaces (BCIs) that can record and transmit brain activity from multiple individuals simultaneously.
+   Step 1: Develop a network of brain-computer interfaces (BCIs) that can record and transmit brain activity from multiple individuals simultaneously.
             This might involve using EEG or fMRI sensors to detect and record electrical or magnetic signals from each individual's brain.
 
-    Step 2: Create a centralized computing system that can receive and interpret the signals from each BCI.
-            This might involve developing sophisticated machine learning algorithms that can analyze and interpret the complex signals from multiple sources.
+   Step 2: Create a centralized computing system that can receive and interpret the signals from each BCI.
+            This might involve developing sophisticated machine learning algorithms that can analyze and interpret the complex signals 
+	    from multiple sources.
 
-    Step 3: Develop a synthetic brain-like structure that can integrate the signals from each individual's brain into a cohesive and functional AI system.
+   Step 3: Develop a synthetic brain-like structure that can integrate the signals from each individual's brain into a cohesive and functional AI system.
             This might involve creating a digital or physical "brain" that can receive and process the signals from each BCI,
             using machine learning algorithms to interpret and respond to the complex signals.
 
-    Step 4: Test and refine the system using controlled experiments involving multiple individuals.
+   Step 4: Test and refine the system using controlled experiments involving multiple individuals.
             This might involve developing scenarios or tasks that require coordination and cooperation between the individuals connected to the AI system,
             and evaluating the effectiveness and efficiency of the system.
 
-    Step 5: Address ethical and legal concerns related to the use of such a system.
+   Step 5: Address ethical and legal concerns related to the use of such a system.
             This might involve developing guidelines for informed consent, privacy, and autonomy for the individuals connected to the system,
             and addressing potential concerns around data privacy and security.
 
@@ -175,3 +176,28 @@ Here is a general method for conducting EEG measurements:
 
 Overall, conducting EEG measurements requires specialized equipment, software, and expertise. It's important to take the necessary steps to
 ensure accuracy and reliability of the data, as this will be critical for interpreting and analyzing the results.
+
+here are the steps typically involved in conducting an fMRI scan:
+  Step 1: Preparation: Before the fMRI scan, the participant will be asked to remove any metal objects, such as jewelry or hairpins,
+          and change into comfortable clothing without any metal. The participant will then be positioned on the scanner bed
+	  with their head securely placed in the head coil. Earplugs or noise-cancelling headphones may be provided to block out scanner noise.
+
+  Step 2: Calibrating the scanner: The scanner will be calibrated to ensure it is functioning correctly and to establish the baseline signal
+          for each participant.
+	  This involves scanning the participant without any tasks or stimuli, known as the resting-state scan.
+	  
+  Step 3: Task-based fMRI: The participant will be given a specific task to perform, such as viewing pictures or responding to a stimulus,
+     	  while in the scanner. This will allow researchers to observe the specific areas of the brain that are activated during the task.
+
+  Step 4: Data collection: During the scan, a series of images will be collected using strong magnetic fields and radio waves.
+  	  The images will show changes in blood flow and oxygenation in different regions of the brain, which are indicators of neural activity.
+
+  Step 5: Data analysis: The collected images will then be processed and analyzed using specialized software, such as SPM or FSL.
+  	  Researchers will look for patterns of neural activity and identify the specific brain regions involved in the task or stimulus.
+
+  Step 6: Interpretation: After the data is analyzed, researchers will interpret the results and draw conclusions about the areas of the brain involved
+  	  in the task or stimulus. They may also compare the results to previous research or to a control group to validate the findings.
+
+Overall, conducting an fMRI scan involves specialized equipment and expertise.
+It's important to take the necessary steps to ensure accuracy and reliability of the data,
+as this will be critical for interpreting and analyzing the results.
