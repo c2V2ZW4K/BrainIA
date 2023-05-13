@@ -2,15 +2,25 @@ For first is necessary create one connection between two brains of one to other
 to make one real neural network between two or more brains to then connect theses multiples brains into machine with IA
 
 Methods to connect two brains one to the other
-  Connecting two brains together in a single machine, also known as brain-to-brain interface (BBI), is an area of active research in neuroscience and engineering. While there is no single established method for connecting two brains, there are several techniques that have been explored, including:
+  Connecting two brains together in a single machine, also known as brain-to-brain interface (BBI),
+  is an area of active research in neuroscience and engineering.
+  While there is no single established method for connecting two brains, there are several techniques that have been explored, including:
 
-    1) Transcranial magnetic stimulation (TMS) - This technique involves using magnetic fields to stimulate specific areas of the brain, allowing for communication between the two brains.
+    1) Transcranial magnetic stimulation (TMS)
+       This technique involves using magnetic fields to stimulate specific areas of the brain, allowing for communication between the two brains.
 
-    2) Electroencephalography (EEG) - EEG is a non-invasive technique that measures electrical activity in the brain. By detecting and decoding these signals, it is possible to establish a communication link between the two brains.
+    2) Electroencephalography (EEG)
+       EEG is a non-invasive technique that measures electrical activity in the brain. By detecting and decoding these signals,
+       it is possible to establish a communication link between the two brains.
 
-    3) Invasive techniques - More invasive methods involve implanting electrodes directly into the brain to detect and stimulate brain activity. This approach has been used successfully in animal studies and holds promise for future human applications.
+    3) Invasive techniques
+       More invasive methods involve implanting electrodes directly into the brain to detect and stimulate brain activity.
+       This approach has been used successfully in animal studies and holds promise for future human applications.
 
-  While some preliminary studies have shown promising results in connecting two brains, this area of research is still in its infancy, and much more work is needed before brain-to-brain interfaces become a practical reality. Additionally, there are significant ethical and legal issues surrounding the use of such technologies, particularly with respect to privacy and the potential for unintended consequences.
+  While some preliminary studies have shown promising results in connecting two brains,
+  this area of research is still in its infancy, and much more work is needed before brain-to-brain interfaces become a practical reality.
+  Additionally, there are significant ethical and legal issues surrounding the use of such technologies,
+  particularly with respect to privacy and the potential for unintended consequences.
 
 Information about how connect one brain into machine with AI
   Connecting two brains together and integrating them with an artificial intelligence (AI) system
@@ -69,4 +79,66 @@ Steps to reach in the act of connect multiples brain into machine with AI
             and addressing potential concerns around data privacy and security.
 
  While this hypothetical step-by-step process provides a rough outline of what might be involved in connecting multiple brains to a single AI system,
- it's important to note that this is still largely a theoretical and speculative area of research, and much more work is needed before such a system could become a reality.
+ it's important to note that this is still largely a theoretical and speculative area of research,
+ and much more work is needed before such a system could become a reality.
+
+
+Creating a brain network that connects four brains using the methods of Transcranial Magnetic Stimulation (TMS), Electroencephalography (EEG),
+and invasive techniques is a challenging and complex task that is still largely in the realm of science fiction.
+However, here is a hypothetical step-by-step process that could be followed:
+
+	Step 1: Prepare the participants for the experiment, ensuring they understand the risks and benefits of the procedure, and obtain informed consent.
+
+	Step 2: Conduct baseline measurements of brain activity using EEG and/or fMRI to establish a baseline for each participant.
+
+	Step 3: Use TMS to stimulate specific areas of the brain in one participant, while simultaneously recording their brain activity with EEG or fMRI.
+
+	Step 4: Transmit the signals from the stimulated brain to the other three participants using EEG,
+			allowing the other participants to experience and respond to the signals.
+
+	Step 5: Repeat the process, with each participant taking turns being stimulated and transmitting signals to the others.
+
+	Step 6: Use invasive techniques such as implanting electrodes directly into the brains of the participants to improve the accuracy and resolution
+			of the brain activity measurements and stimulation.
+
+	Step 7: Use machine learning algorithms to analyze and interpret the complex signals from the four brains,
+			creating a coherent and functional network of interconnected brains.
+
+	Step 8: Test and refine the system using controlled experiments involving multiple scenarios and tasks that require coordination
+			and cooperation between the four participants.
+
+	Step 9: Address ethical and legal concerns related to the use of such a system.
+			This might involve developing guidelines for informed consent, privacy, and autonomy for the participants connected to the system,
+			and addressing potential concerns around data privacy and security.
+
+While this hypothetical step-by-step process provides a rough outline of what might be involved in connecting four brains using TMS, EEG, and invasive
+techniques, it's important to note that this is still largely a theoretical and speculative area of research,
+and much more work is needed before such a system could become a reality.
+
+Reproduction of Step 2 to Conduct baseline measurements of brain activity using both methods of EEG and fMRI
+	Here is a general method for conducting EEG and fMRI measurements to establish a baseline for each participant:
+
+	Step 1: Preparing the participants: Before beginning the EEG and fMRI measurements, inform the participants about the process and ensure
+			they are comfortable with the procedure. Make sure they understand the instructions for the test and provide any necessary materials,
+			such as earplugs or noise-cancelling headphones.
+			
+	Step 2: EEG measurement: Start with the EEG measurement. Have the participant sit in a comfortable chair or lie down on a bed in a quiet room.
+			Apply electrodes to specific locations on the scalp to measure the electrical activity of the brain.
+			Record the baseline EEG activity for a few minutes with the participant's eyes open and then again with their eyes closed.
+			
+	Step 3: fMRI measurement: Next, move on to the fMRI measurement. Have the participant lie down on the scanner bed,
+			with their head comfortably placed in the head coil. Give them earplugs or noise-cancelling headphones to block out the noise from the scanner.
+			Collect baseline fMRI data while the participant is resting quietly for several minutes.
+			
+	Step 4: Analyzing the data: Once the EEG and fMRI data have been collected, it's time to analyze the data.
+			Use specialized software to process and analyze the data, such as BrainVision Analyzer or SPM.
+			Look for patterns and correlations between the EEG and fMRI data to establish a baseline for each participant.
+			
+	Step 5: Interpret the data: Once the data is analyzed, interpret the results and draw conclusions about each participant's baseline brain activity.
+			Look for any abnormalities or anomalies that might need further investigation.
+
+	Step 6: Repeat the process: To ensure accuracy and reliability, repeat the EEG and fMRI measurements for each participant on multiple occasions.
+			This will allow for a more comprehensive understanding of each individual's baseline brain activity.
+			
+Overall, conducting EEG and fMRI measurements to establish a baseline for each participant requires specialized equipment, software, and expertise.
+It's important to take the necessary steps to ensure accuracy and reliability of the data, as this will be critical for interpreting and analyzing the results.
