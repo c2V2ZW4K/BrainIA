@@ -145,3 +145,33 @@ Reproduction of Step 2 to Conduct baseline measurements of brain activity using 
 Overall, conducting EEG and fMRI measurements to establish a baseline for each participant requires specialized equipment, software, and expertise.
 It's important to take the necessary steps to ensure accuracy and reliability of the data, as this will be critical for interpreting and
 analyzing the results.
+
+Here is a general method for conducting EEG measurements:
+   Step 1: Preparing the participant: Before beginning the EEG measurement, inform the participant about the process and ensure
+           they are comfortable with the procedure. Make sure they understand the instructions for the test and provide any necessary materials,
+	   such as earplugs or noise-cancelling headphones.
+
+   Step 2: Preparing the equipment: Set up the EEG equipment and check that it is functioning correctly.
+   	   Prepare the electrodes and apply them to specific locations on the scalp according to the international 10-20 system.
+
+   Step 3: Baseline measurement: Record the baseline EEG activity for a few minutes with the participant's eyes open,
+	   followed by a few minutes with their eyes closed. This will establish a baseline measurement of their brain activity.
+   
+   Step 4: Stimulus presentation: Depending on the study design, present stimuli to the participant during the EEG measurement. This could be visual,
+           auditory, or somatosensory stimuli, depending on the research question.
+   
+   Step 5: Data collection: Record the EEG data using specialized software, such as BrainVision Recorder or EEGLAB.
+           Ensure that the signal quality is good and that there are no artifacts, such as muscle or eye movements, that could interfere with the data.
+
+   Step 6: Data processing and analysis: Process and analyze the EEG data using specialized software, such as BrainVision Analyzer or MATLAB.
+           Apply filters to remove noise, segment the data into epochs, and extract relevant features,
+	   such as event-related potentials (ERPs) or spectral power
+   
+   Step 7: Interpret the data: Once the data is analyzed, interpret the results and draw conclusions about the participant's brain activity.
+   	   Look for patterns and correlations between the EEG data and any stimuli presented to the participant.
+
+   Step 8: Repeat the process: To ensure accuracy and reliability, repeat the EEG measurement for each participant on multiple occasions.
+   	   This will allow for a more comprehensive understanding of their brain activity and reduce the effects of any individual variability.
+
+Overall, conducting EEG measurements requires specialized equipment, software, and expertise. It's important to take the necessary steps to
+ensure accuracy and reliability of the data, as this will be critical for interpreting and analyzing the results.
